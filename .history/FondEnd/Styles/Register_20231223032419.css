@@ -1,0 +1,19 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.container {
+    display: flex;
+    background: #fff;
+    border: 1px solid #ccc;
+    width: 768px;
+    height: 480px;
+    background: red;
+}

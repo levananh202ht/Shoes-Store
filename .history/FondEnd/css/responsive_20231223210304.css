@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px) {
+    
+    /* Register */
+    .container {
+        width: 90%;
+        padding: 30px 0;
+    }
+    .container .container_title {
+        display: none;
+    }
+    .container .container_from {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    
+}

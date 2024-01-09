@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+    
+    /* Register */
+    .container .container_title {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    
+}

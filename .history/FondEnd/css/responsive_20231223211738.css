@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) {
+    
+    /* Register */
+    .container {
+        width: 90%;
+        padding: 30px 0;
+    }
+    .container .container_title {
+        display: none;
+    }
+    .container .container_from {
+        width: 100%;
+    }
+    .container .container_from .container_from-title2  a {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    
+}

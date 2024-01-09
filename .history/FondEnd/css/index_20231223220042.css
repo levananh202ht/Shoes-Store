@@ -1,0 +1,15 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+
+}
+.container .container_header {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 9%;
+}
